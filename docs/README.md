@@ -4,7 +4,7 @@
 
 #### [Formularz zgłaszania uwaga i błedów i propozycji](https://github.com/Cisowscy/grobonet-for-gedcom/issues)
 
-#### [Poniższe informacje są też dostępne w wersji PDF](https://github.com/Cisowscy/grobonet-for-gedcom/blob/master/docs/DOKUMENTACJA.pdf)
+#### [Poniższe informacje są też dostępne w wersji PDF - BARDZIEJ CZYTELNA KOMPOZYCJA](https://github.com/Cisowscy/grobonet-for-gedcom/blob/master/docs/DOKUMENTACJA.pdf)
 
 ## INFORMACJE
 
