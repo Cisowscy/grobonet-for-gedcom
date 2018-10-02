@@ -1,5 +1,6 @@
-title: GROBONET4GEDCOM
-description: Architect is a theme for GitHub Pages.
+# Setupt
+itle: GROBONET4GEDCOM
+description: a tool that allows you to build a gedcom file from the grobonet data, allowing you to easily search the base of the grobonet for people from our genealogies.
 show_downloads: true
-google_analytics:a tool that allows you to build a gedcom file from the grobonet data, allowing you to easily search the base of the grobonet for people from our genealogies
+google_analytics:
 theme: jekyll-theme-architect
