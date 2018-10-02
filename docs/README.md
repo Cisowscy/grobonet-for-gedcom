@@ -1,7 +1,9 @@
 # GROBONET FOR GEDCOM by J.R.Cisowski
 
 #### [Wszystkie wersje (do pobrania) - kliknij by wyświetlić](https://github.com/Cisowscy/grobonet-for-gedcom/releases)
+
 #### [Formularz zgłaszania uwaga i błedów i propozycji](https://github.com/Cisowscy/grobonet-for-gedcom/issues)
+
 #### [Poniższe informacje są też dostępne w wersji PDF](https://github.com/Cisowscy/grobonet-for-gedcom/blob/master/docs/DOKUMENTACJA.pdf)
 
 ## INFORMACJE
