@@ -1,0 +1,27 @@
+{
+  "name": "grobonet-for-gedcom",
+  "version": "1.0.0-beta.1",
+  "description": "a tool that allows you to build a gedcom file from the grobonet data, allowing you to easily search the base of the grobonet for people from our genealogies",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cisowscy/grobonet-for-gedcom.git"
+  },
+  "keywords": [
+    "grobonet",
+    "decom",
+    "gedcom-praser"
+  ],
+  "author": "J.R.Cisowski (4GEN@CISOWSCY.COM)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Cisowscy/grobonet-for-gedcom/issues"
+  },
+  "homepage": "https://github.com/Cisowscy/grobonet-for-gedcom#readme"
+}
