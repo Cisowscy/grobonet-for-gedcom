@@ -16,7 +16,7 @@
     "grobonet",
     "decom",
     "gedcom-praser"
-  ],  
+  ],
   "dependencies": {
     "async": "^2.6.1",
     "chalk": "^2.4.1",
