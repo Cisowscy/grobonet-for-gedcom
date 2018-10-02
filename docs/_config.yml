@@ -1,14 +1,7 @@
-theme: jekyll-theme-architect
 # Setupt
-name:         GROBONET4GEDCOM
-tagline:      a tool that allows you to build a gedcom file from the grobonet data, allowing you to easily search the base of the grobonet for people from our genealogies.
-baseurl:      ""
-locale:       "pl"
+itle: GROBONET4GEDCOM
+description: a tool that allows you to build a gedcom file from the grobonet data, allowing you to easily search the base of the grobonet for people from our genealogies.
 show_downloads: true
-
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown
+google_analytics:
+theme: jekyll-theme-architect
+locale: "pl"
