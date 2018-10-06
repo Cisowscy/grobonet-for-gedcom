@@ -1,0 +1,63 @@
+{
+  "name": "grobonet-for-gedcom",
+  "version": "1.0.0",
+  "description": "a tool that allows you to build a gedcom file from the grobonet data, allowing you to easily search the base of the grobonet for people from our genealogies",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cisowscy/grobonet-for-gedcom.git"
+  },
+  "keywords": [
+    "grobonet",
+    "decom",
+    "gedcom-praser"
+  ],
+  "dependencies": {
+    "any-base": "^1.1.0",
+    "chalk": "^2.4.1",
+    "cheerio": "^1.0.0-rc.2",
+    "core-js": "^3.0.0-beta.3",
+    "fs-extra": "^7.0.0",
+    "html-table-to-json": "^0.2.1",
+    "inquirer": "^6.2.0",
+    "luxon": "^1.4.3",
+    "readdirp": "^2.2.1",
+    "request": "^2.88.0",
+    "systeminformation": "^3.45.7"
+  },
+  "bin": {
+    "GROBONET4GEDCOM_1_IMPORT": "./SYSTEM/bin/js/IMPORT.js",
+    "GROBONET4GEDCOM_2_CONFIG": "./SYSTEM/bin/js/CONFIG.js",
+    "GROBONET4GEDCOM_3_EXPORT": "./SYSTEM/bin/js/EXPORT.js",
+    "GROBONET4GEDCOM_4_BACKUP": "./SYSTEM/bin/js/BACKUP.js",
+    "ŹRÓDŁA_reFRESH": "./SYSTEM/bin/js/DB_reFRESH.js",
+    "ŹRÓDŁA_newEMPTY": "./SYSTEM/bin/js/DB_newEMPTY.js",
+    "ŹRÓDŁA_newEXAMPLE": "./SYSTEM/bin/js/DB_newEXAMPLE.js"
+  },
+  "pkg": {
+    "targets": [
+      "node10",
+      "win",
+      "x64"
+    ]
+  },
+  "author": "J.R.Cisowski (4GEN@CISOWSCY.COM)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Cisowscy/grobonet-for-gedcom/issues"
+  },
+  "homepage": "https://github.com/Cisowscy/grobonet-for-gedcom#readme",
+  "devDependencies": {
+    "pkg": "^4.3.4",
+    "rollup": "^0.66.4",
+    "rollup-plugin-auto-external": "^2.0.0",
+    "rollup-plugin-commonjs": "^9.1.8",
+    "rollup-plugin-json": "^3.1.0",
+    "rollup-plugin-node-resolve": "^3.4.0"
+  }
+}
